@@ -1,0 +1,1 @@
+Utilizei inteligência artificial para criar um teste automatizado do exemplo de validação. O teste executa o CLI com os arquivos de entrada indicados e compara o JSON gerado com os resultados esperados do README. Revisei o teste e confirmei sua execução com sucesso.
